@@ -1,4 +1,4 @@
-#Projeto HZC
+# Projeto HZC
 
 Projeto desenvolvido durante o curso de Flexbox e Grid da Alura.
 
